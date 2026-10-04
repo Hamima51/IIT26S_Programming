@@ -9,4 +9,4 @@ end = int(input("2) Ending point: "))
 step = int(input("3) Step size: "))
 substring = word[start:end:step]
 print(f"The word '{word}' sliced to the defined substring is '{substring}'.")
-print("Program ending.")
+print("Program ending.") 
